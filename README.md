@@ -1,4 +1,6 @@
 ## Hi there 👋
+![hiroki078's GitHub stats](https://github-readme-stats-git-master-hirokis-projects-160ea4d3.vercel.app/api?username=hiroki078)
+
 
 <!--
 **hiroki078/hiroki078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
