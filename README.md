@@ -1,5 +1,4 @@
 ## Hi there 👋
-![hiroki078's GitHub stats](https://github-readme-stats-git-master-hirokis-projects-160ea4d3.vercel.app/api?username=hiroki078)
 
 
 <!--
